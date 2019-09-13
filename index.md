@@ -6,6 +6,10 @@
 * 趣味:スポーツ観戦,映画鑑賞,釣り
 * 行った国:ハワイ(カウアイ島)
 
-![カウアイ島についてのブログ](https://kolohebrothers.wordpress.com/page/)
-![大島商船のサイト](http://www.oshima-k.ac.jp/)
+## 観光地のワイメアキャニオン
+![カウアイ島](http://hawaiing.com/wp-content/uploads/2012/12/visiting05-1_01.jpg)
+
+### カウアイ島についてのブログ
+<https://kolohebrothers.wordpress.com/kauai/>
+
 
